@@ -1,0 +1,31 @@
+{
+  "courses": [
+    {
+      "slug": "microlearning-product-knowledge-bites",
+      "title": "Microlearning: Product Knowledge Bites",
+      "description": "Bite-sized responsive lessons designed for on-the-go reinforcement and long-term knowledge retention.",
+      "scormVersion": "1.2",
+      "authoringTool": "Articulate Rise 360",
+      "launch": "",
+      "available": false
+    },
+    {
+      "slug": "leadership-decision-making-simulation",
+      "title": "Leadership Decision-Making Simulation",
+      "description": "Interactive branching simulation with whiteboard animations and scored decision points for new managers.",
+      "scormVersion": "1.2",
+      "authoringTool": "Articulate Storyline 360",
+      "launch": "",
+      "available": false
+    },
+    {
+      "slug": "new-hire-digital-onboarding",
+      "title": "New-Hire Digital Onboarding Journey",
+      "description": "Blended onboarding program combining eLearning modules, ILT scheduling, and knowledge checks.",
+      "scormVersion": "1.2",
+      "authoringTool": "Articulate Rise 360",
+      "launch": "",
+      "available": false
+    }
+  ]
+}

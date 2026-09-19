@@ -446,16 +446,24 @@ ul {
 .avatar {
   display: grid;
   place-items: center;
-  width: 104px;
-  height: 104px;
+  width: 120px;
+  height: 120px;
   margin: 0 auto 18px;
   border-radius: 50%;
+  overflow: hidden;
   background: linear-gradient(140deg, var(--navy-800), var(--navy-600));
   color: #fff;
   font-size: 2rem;
   font-weight: 800;
   letter-spacing: 0.04em;
   box-shadow: 0 0 0 6px #fff, 0 0 0 8px var(--teal-100);
+}
+
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 18%;
 }
 
 .hero-card h2 {
